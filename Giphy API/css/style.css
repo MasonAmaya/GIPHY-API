@@ -1,0 +1,48 @@
+#header {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png");
+	color: #ffffff;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#topImageL {
+	width: 15%;
+	float: left;
+	margin-left: 20px;
+}
+
+#topImageR {
+	width: 15%;
+	float: right;
+	margin-right: 20px;
+}
+
+label {
+	font-size: 18px;
+}
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#pokemonSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.pokemonGiphy {
+	padding: 2px;
+	width: 80%;
+}
